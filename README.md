@@ -1,2 +1,1 @@
-# park-mark
 # template-candidato
